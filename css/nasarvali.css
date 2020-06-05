@@ -1,0 +1,20 @@
+*{
+	text-transform:uppercase;
+	background-color: aqua;
+
+}
+
+
+.card{
+	width:30%;
+	text-align:center;
+	margin:0 auto;
+	border:1px solid red;
+	box-shadow: 6px 6px 6px -3px;
+
+}
+
+.card>img{
+	width:50%;
+	height: 50%;
+}
